@@ -1,0 +1,9 @@
+---
+applications:
+- name: cloud-clickr
+  memory: 512M
+  instances: 1
+  random-route: true
+  command: node app.js
+  buildpack: https://github.com/cloudfoundry/nodejs-buildpack
+

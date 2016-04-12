@@ -1,0 +1,15 @@
+{
+  "name": "cloudclickr",
+  "version": "1.0.0",
+  "description": "Game that lets you click on clouds to make MOAR clouds.",
+  "main": "app.js",
+  "dependencies": {
+    "express": "^4.13.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heiwad Osman",
+  "license": "ISC"
+}
